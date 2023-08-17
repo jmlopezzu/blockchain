@@ -1,6 +1,3 @@
-# blockchain
-blockchain UN
-
 Here's an example of a basic blockchain visualization app using Streamlit in Python. This app allows you to interact with a simplified blockchain by adding new blocks and viewing the blockchain's contents.
 
 To run this code, make sure you have Streamlit installed (pip install streamlit) and then save the code to a file with a .py extension (e.g., blockchain_app.py). Run the app using the command streamlit run blockchain_app.py in your terminal.
